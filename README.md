@@ -1,7 +1,3 @@
-![twitter](https://img.shields.io/twitter/follow/fuel_domains?style=social)
-![Waitlist](https://img.shields.io/badge/Fuel_Domais-Waitlist-green?link=https%3A%2F%2Ffuel.domains)
-
-
 # Bako ID
 
 Bako ID is a native naming system for the Fuel ecosystem, designed to help users seamlessly bridge their Web2 handles to Web3. The primary goal of Bako ID is to provide a secure and engaging user experience across Fuel by offering a unified identity interface.
