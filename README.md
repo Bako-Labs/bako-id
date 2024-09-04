@@ -2,10 +2,20 @@
 ![Waitlist](https://img.shields.io/badge/Fuel_Domais-Waitlist-green?link=https%3A%2F%2Ffuel.domains)
 
 
-# 📦 Bako ID SDK
+# Bako ID
 
-Bako ID SDK enable to register a `@` handle domain in [Fuel Network](https://www.fuel.network/).
-Compatible with BETA-5
+Bako ID is a native naming system for the Fuel ecosystem, designed to help users seamlessly bridge their Web2 handles to Web3. The primary goal of Bako ID is to provide a secure and engaging user experience across Fuel by offering a unified identity interface.
+
+## Directory Structure
+Inside the repository, you will find the following main directories:
+
+- [packages/sway](https://github.com/Bako-Labs/bako-id/tree/main/packages/sway): Contains all the smart contracts and libraries used by Bako ID.
+- [packages/sdk](https://github.com/Bako-Labs/bako-id/tree/main/packages/sway): A TypeScript SDK for interacting with the smart contracts.
+- [packages/image-generator](https://github.com/Bako-Labs/bako-id/tree/main/packages/sway): A server-side component responsible for generating images for NFTs.
+- [apps/doc](https://github.com/Bako-Labs/bako-id/tree/main/apps/docs): Documentation for Bako ID, providing detailed information about its functionality and usage.
+- [apps/ui](https://github.com/Bako-Labs/bako-id/tree/main/apps/ui): The user interface for Bako ID, providing an interactive frontend for users to manage their identities.
+
+For for information, check out the [Documentation page](https://docs.bako.id/).
 
 ## Installation
 
